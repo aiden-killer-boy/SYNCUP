@@ -1,0 +1,6 @@
+{
+  "name": "SynqUp",
+  "description": "SynqUp - Student-initialized subjects, social behavioural credit score meter across 5 qualities rated by peers, teacher-student interaction bridge tracking classroom passiveness to upscale teaching, LinkedIn-style certificate diary, and AI automated assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
